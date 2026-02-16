@@ -1,1 +1,3 @@
-# Formation_mathematica
+# Formation en Mathematica
+
+Je mets tout les notebooks de mathematica qui j'ai.
